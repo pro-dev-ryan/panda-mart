@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500;700&display=swap');
+
+.bg-original {
+    background-color: #f8f9fa;
+}
+
+.hero-bg {
+    background-color: #feeae9;
+}
+
+                /* <div>
+                  <h2>X-Box for your living room</h2>
+                  <p>This is the best x-box in the world for people who just want to waste time in front of fake sports.</p>
+                  <h4>$600</h4>
+                  <button class="bg-danger">Buy Now</button>
+                </div> */

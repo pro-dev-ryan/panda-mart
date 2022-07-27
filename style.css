@@ -8,9 +8,14 @@
     background-color: #feeae9;
 }
 
-                /* <div>
-                  <h2>X-Box for your living room</h2>
-                  <p>This is the best x-box in the world for people who just want to waste time in front of fake sports.</p>
-                  <h4>$600</h4>
-                  <button class="bg-danger">Buy Now</button>
-                </div> */
+.tooltip-own {
+
+  border: none;
+  border-left: .25rem solid rgb(184, 29, 29);
+  background-color: beige;
+  border-width: .5rem;
+  font-family: Ubuntu, sans-serif;
+  font-size: 1rem;
+}
+
+                
